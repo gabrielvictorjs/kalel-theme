@@ -102,19 +102,6 @@
 		"terminal.ansiBrightCyan"	: "#9ebcba",
 		"terminal.ansiWhite"	: "#B4B7C3",
 		"terminal.ansiBrightWhite"	: "#B4B7C3",
-		"editorBracketHighlight.foreground1": "#95949f",
-		"editorBracketHighlight.foreground2": "#95949f",
-		"editorBracketHighlight.foreground3": "#95949f",
-		"editorBracketHighlight.foreground4": "#95949f",
-		"editorBracketHighlight.foreground5": "#95949f",
-		"editorBracketHighlight.foreground6": "#95949f",
-		"editorBracketHighlight.unexpectedBracket.foreground": "#95949f",
-		"editorBracketPairGuide.activeBackground1": "#95949f",
-		"editorBracketPairGuide.activeBackground2": "#95949f",
-		"editorBracketPairGuide.activeBackground3": "#95949f",
-		"editorBracketPairGuide.activeBackground4": "#95949f",
-		"editorBracketPairGuide.activeBackground5": "#95949f",
-		"editorBracketPairGuide.activeBackground6": "#95949f"
 	}
 	,
 	"tokenColors": [
@@ -645,6 +632,7 @@
 				"punctuation.terminator",
 				"punctuation.separator.comma",
 				"punctuation.accessor",
+				"storage.type.function.arrow"
 			],
 			"settings": {
 				"foreground": "#95949f",
