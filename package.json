@@ -2,7 +2,7 @@
   "name": "kalel-theme",
   "displayName": "Kalel Theme",
   "description": "A wonderful theme",
-  "version": "0.0.2",
+  "version": "0.1.0",
   "publisher": "gabrielvictordev",
   "engines": {
     "vscode": "^1.97.0"
@@ -16,6 +16,11 @@
         "label": "Kalel",
         "uiTheme": "vs-dark",
         "path": "./themes/Kalel-color-theme.json"
+      },
+      {
+        "label": "Kalel Darker",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Kalel-darker-color-theme.json"
       }
     ]
   },
