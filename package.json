@@ -2,7 +2,7 @@
   "name": "kalel-theme",
   "displayName": "Kalel Theme",
   "description": "A wonderful theme",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "publisher": "gabrielvictordev",
   "engines": {
     "vscode": "^1.97.0"
@@ -18,9 +18,19 @@
         "path": "./themes/Kalel-color-theme.json"
       },
       {
+        "label": "Kalel Flat",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Kalel-flat-color-theme.json"
+      },
+      {
         "label": "Kalel Darker",
         "uiTheme": "vs-dark",
         "path": "./themes/Kalel-darker-color-theme.json"
+      },
+      {
+        "label": "Kalel Flat Darker",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Kalel-flat-darker-color-theme.json"
       }
     ]
   },
