@@ -2,7 +2,7 @@
   "name": "kalel-theme",
   "displayName": "Kalel Theme",
   "description": "A wonderful theme",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "publisher": "gabrielvictordev",
   "engines": {
     "vscode": "^1.97.0"
