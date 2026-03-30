@@ -208,7 +208,7 @@
 			"name": "Language Variable",
 			"scope": "variable.language",
 			"settings": {
-				"foreground": "#4e7a86"
+				"foreground": "#375C73"
 			}
 		},
 		{
@@ -218,7 +218,7 @@
 				"variable.readwrite.other.block"
 			],
 			"settings": {
-				"foreground": "#739199"
+				"foreground": "#415F70"
 			}
 		},
 		{
@@ -228,28 +228,28 @@
 				"keyword.operator.constructor"
 			],
 			"settings": {
-				"foreground": "#4e7a86"
+				"foreground": "#1E5775"
 			}
 		},
 		{
 			"name": "Keyword Operator",
 			"scope": "keyword.operator",
 			"settings": {
-				"foreground": "#62657a"
+				"foreground": "#324F74"
 			}
 		},
 		{
 			"name": "Storage",
 			"scope": "storage",
 			"settings": {
-				"foreground": "#4e7a86"
+				"foreground": "#315E76"
 			}
 		},
 		{
 			"name": "Storage type",
 			"scope": "storage.type",
 			"settings": {
-				"foreground": "#4e7a86"
+				"foreground": "#2B5272"
 			}
 		},
 		{
@@ -262,14 +262,14 @@
 				"support.class"
 			],
 			"settings": {
-				"foreground": "#739199"
+				"foreground": "#304E6E"
 			}
 		},
 		{
 			"name": "Variable Object",
 			"scope": "variable.other.object",
 			"settings": {
-				"foreground": "#739199"
+				"foreground": "#476D86"
 			}
 		},
 		{
@@ -279,7 +279,7 @@
 				"variable.other.block"
 			],
 			"settings": {
-				"foreground": "#515662"
+				"foreground": "#4D616C"
 			}
 		},
 		{
@@ -296,21 +296,21 @@
 				"support.function"
 			],
 			"settings": {
-				"foreground": "#ab8c92"
+				"foreground": "#6A4C66"
 			}
 		},
 		{
 			"name": "Function argument",
 			"scope": "variable.parameter",
 			"settings": {
-				"foreground": "#8c84ad"
+				"foreground": "#7F70A4"
 			}
 		},
 		{
 			"name": "Function call",
 			"scope": "entity.name.function-call",
 			"settings": {
-				"foreground": "#515662"
+				"foreground": "#4C5862"
 			}
 		},
 		{
