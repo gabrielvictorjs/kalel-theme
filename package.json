@@ -2,10 +2,10 @@
   "name": "kalel-theme",
   "displayName": "Kalel Theme",
   "description": "A wonderful theme",
-  "version": "0.3.1",
+  "version": "0.3.3",
   "publisher": "gabrielvictordev",
   "engines": {
-    "vscode": "^1.97.0"
+    "vscode": "^1.17.0"
   },
   "categories": [
     "Themes"
@@ -36,6 +36,11 @@
         "label": "Kalel Midnight",
         "uiTheme": "vs-dark",
         "path": "./themes/Kalel-midnight-color-theme.json"
+      },
+      {
+        "label": "Kalel Light",
+        "uiTheme": "vs",
+        "path": "./themes/Kalel-light-color-theme.json"
       }
     ]
   },
